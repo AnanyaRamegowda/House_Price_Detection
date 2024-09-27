@@ -2,7 +2,6 @@
 ## Introduction
 In this project, we aim to develop a model to predict house prices using various machine learning techniques. The primary objective is to collect` historical data and advanced algorithms to provide accurate and reliable price estimates for residential properties.House Price Prediction likely involves using machine learning techniques to predict the prices of houses based on various factors such as location, size, number of rooms and more. By training a model on historical data, you aim to create an algorithm that can accurately estimate house prices. This type of project typically includes data preprocessing, feature engineering, model selection (e.g., linear regression, decision trees, or neural networks), and performance evaluation using metrics like mean squared error (MSE) or R-squared.
 ## Objectives
-```bash
 1. Buying a House: Helps homebuyers estimate the price of a house based on its features, making it easier to know if a property is priced fairly.
 2. Selling a House: Allows homeowners to determine the best listing price for their property to attract buyers without underpricing or overpricing.
 3. Real Estate Agent Assistance: Real estate agents can use the model to quickly provide price estimates to clients, improving their services.
@@ -10,9 +9,7 @@ In this project, we aim to develop a model to predict house prices using various
 5. Mortgage Loan Processing: Banks can use house price predictions to assess the value of a property when granting home loans.
 6. Insurance Premium Calculation: Insurance companies can estimate the value of a property to set appropriate insurance premiums.
 7. Renting a Property: The model can help determine rental prices based on house value and market conditions.
-```
 ## Brief Descrption About The Project
-```bash
 1.Data Collection and Preprocessing: Gather and clean housing data, ensuring it is free from missing values and irrelevant features.
 2.Exploratory Data Analysis (EDA): Analyze the data to understand the distribution of house prices and identify trends or patterns.
 3.Feature Engineering: Select relevant features, encode categorical variables, and create new features to improve model accuracy.
@@ -20,7 +17,6 @@ In this project, we aim to develop a model to predict house prices using various
 5.Model Evaluation: Assess model performance using metrics like R-squared score to ensure accuracy.
 6.Deployment: Deploy the model for real-world use, allowing stakeholders to access and utilize the predictions.
 7.Usability Testing: Validate the model’s effectiveness in practical applications and refine it based on feedback.
-```
 ## List of Importing Libraries and Dataset
 ### Libraries
 ```bash
@@ -54,7 +50,6 @@ square feet lot
 *Square basement
 ```
 ## Steps Involved In This Project
-```bash
 1. Data Collection: Gather historical housing data, including property features and prices.
 2. Data Preprocessing: Clean the dataset by handling missing values, outliers, and normalizing data.
 3. Feature Selection: Identify the most relevant property features that influence house prices.
@@ -65,7 +60,6 @@ square feet lot
 8. Price Prediction: Use the trained model to predict house prices for new properties.
 9. Visualization of Results: Display the predicted prices and important features through plots and graphs.
 10. Documentation: Summarize the entire process, results, and insights of this project.
-```
 ## Brief Insight 
 The House Price Prediction project aims to build a machine learning model that can accurately forecast the price of a house based on key features such as location, size, number of rooms, and amenities. By analyzing historical housing data, the project applies techniques like data preprocessing, feature selection, and model training to capture patterns in property prices. The model is evaluated and optimized to ensure reliable predictions, which can then be used by homebuyers, sellers, real estate agents, and investors to make informed decisions. The project also highlights the importance of data-driven approaches in the real estate market, offering valuable insights into pricing trends and property valuation.
 ## Conclusion
